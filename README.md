@@ -1,4 +1,6 @@
 # qobuz-dl
+original source code : https://github.com/vitiko98/qobuz-dl (import date : 21-03-01).
+
 Search, explore and download Lossless and Hi-Res music from [Qobuz](https://www.qobuz.com/).
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VZWSWVGZGJRMU&source=url)
 
@@ -27,7 +29,7 @@ pip3 install --upgrade qobuz-dl
 ```
 ##### Windows
 ```
-pip3 install windows-curses
+pip3 install windows_curses-2.2.0-cp39-cp39-win_amd64.whl
 pip3 install --upgrade qobuz-dl
 ```
 #### Run qobuz-dl and enter your credentials
